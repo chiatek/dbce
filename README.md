@@ -1,2 +1,0 @@
-# dbce
-Database Content Editor
